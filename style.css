@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background: white;
+
+}
+
+.container {
+    max-width: 300px;
+    padding: 30px;
+    gap: 80px;
+    margin-top: 200px;
+    margin-left: 450px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(4, 4, 102);
+    color: white;
+    border-radius: 5px;
+}
+
+h3{
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.home-box{
+    background-color: black;
+    color: rgb(221, 36, 36);
+    text-align: center;
+    font-size: 90px;
+    max-width: 90px;
+    height: 100px;
+    padding: 5px;
+    margin-top: -20px;
+}
+
+.guest-box{
+    background-color: black;
+    color: rgb(221, 36, 36);
+    text-align: center;
+    font-size: 90px;
+    max-width: 90px;
+    height: 100px;
+    padding: 5px;
+    margin-top: -20px;
+}
+
+button{
+    color: white;
+    background-color: rgb(4, 4, 102);
+    border-radius: 5px;
+    border-color: white;
+    padding: 5px;
+    margin-top: 15px;
+}
